@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Çınar Civan, evrimsel biyoloji alanında araştırmalar ve çalışmalar yapmaktadır. Aktif olarak doğa bilimleri ve taksonomi yazarlığı yapmaktadır. Türkiye'nin en büyük, en çok okunan ve en çok takip edilen popüler bilim oluşumu olan Evrim Ağacı'nda yazarlık yapmaktadır. Doğa hayatı gözlemleri yapmakta ve doğa hayatı gözlemlerini fotoğraflamaktadır. Bilimetri popüler bilim oluşumunun kurucusu ve sahibidir.</p>
+<p align="left">Çınar Civan researches and works in the field of evolutionary biology. He is an active natural science and taxonomy author. He writes for Evrim Ağacı, Turkey's largest, most widely read and most followed popular science website. He observes wildlife and photographs his observations of wildlife. He is the founder and owner of Bilimetri popular science organization.</p>
 
 ###
 
-<h3 align="left">Sosyal Medya:</h3>
+<h3 align="left">Social Media:</h3>
 
 ###
 
@@ -27,15 +27,15 @@
 
 ###
 
-<h2 align="left">Bilimetri Hakknda</h2>
+<h2 align="left">About Bilimetri</h2>
 
 ###
 
-<p align="left">Bilimetri, 1 Eylül 2022 tarihinde Türkiye'de kurulmuş olan popüler bilim oluşumudur. Bu popüler bilim oluşumunun en temel amacı bilimi yaymak ve bilimsel aydınlanmaya katkı sağlamaktır. Bilimetri, pek çok seviyede bilimsel içeriği okurlara tamamen "ücretsiz" ve "reklamsız" bir şekilde sunmaktadır. Bu içerikler arasında tamamen özgün içeriklerden çeviri içeriklere kadar pek çok kategori bulunmaktadır. İçeriklerin bazıları popüler bilim seviyesindeyken bazı içerikler akademik seviyede, popüler bilim şeklinde anlatılmıştır. Bilimetri, bilimin geleceğimizi tasarlamaktaki en büyük güç olduğunu bilmekte ve daima buna göre hareket etmektedir. Opus perfectum!</p>
+<p align="left">Bilimetri is a popular science organization founded in Turkey on September 1, 2022. The main purpose of this popular science organization is to spread science and contribute to scientific enlightenment. Bilimetri offers many levels of scientific content to readers completely "free" and "ad-free". There are many categories among these contents, ranging from completely original content to translated content. While some of the content is at the popular science level, some of the content is explained in the form of popular science at the academic level. Bilimetri knows that science is the greatest power in designing our future and always acts accordingly. Opus perfectum!</p>
 
 ###
 
-<h3 align="left">Sosyal Medya:</h3>
+<h3 align="left">Social Media:</h3>
 
 ###
 
@@ -59,7 +59,7 @@
 
 ###
 
-<h5 align="left">Profil Ziyaretçi Sayısı:</h5>
+<h5 align="left">GitHub Profile Visitor Counter:</h5>
 
 ###
 
