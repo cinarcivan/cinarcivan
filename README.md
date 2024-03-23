@@ -1,55 +1,14 @@
-<h1 align="center">Çınar Civan</h1>
+<p align="center">
+<img alt="ORCID" src="https://img.shields.io/badge/%C3%87%C4%B1nar%20Civan-%23A6CE39%20?logo=orcid&labelColor=white&link=https%3A%2F%2Forcid.org%2F0000-0001-6378-8630">
+<img alt="npm" src="https://img.shields.io/badge/cinarcivan-%23cb3837?logo=npm&link=https%3A%2F%2Fwww.npmjs.com%2F~cinarcivan">
+<img alt="X (formerly, Twitter)" src="https://img.shields.io/badge/%40cinarcvn-%23000000?logo=x&link=https%3A%2F%2Ftwitter.com%2Fcinarcvn">
+<img alt="Instagram" src="https://img.shields.io/badge/%40cinarcivann-%23FCAF45?logo=instagram&color=white&link=https%3A%2F%2Fwww.instagram.com%2Fcinarcivann">
+</p>
 
-###
+Hello, I'm Çınar Civan! I'm the co-founder of Sci-Hook Organization. I develop web projects and I am interested in 	embedded system programming. I make sure that the projects I develop are open-source and I contribute to open-source projects. We share the tools, systems and software projects we develop at Sci-Hook Organization in an open source way. You can browse Sci-Hook Organization's GitHub account [here](https://github.com/Sci-Hook).
 
-<p align="left">Çınar Civan researches and works in the field of evolutionary biology. He is an active natural science and taxonomy author. He writes for Evrim Ağacı, Turkey's largest, most widely read and most followed popular science website. He observes wildlife and photographs his observations of wildlife. He is the founder and owner of Bilimetri popular science organization.</p>
+I work in science communication and I am a science editor. I am the general editor at [Tree of Evolution](https://evrimagaci.org/cinarcivan), Turkey's largest science communication platform. I am also the founder and editor-in-chief of Sci-Hook's science communication platform [Bilimetri](https://www.bilimetri.org/).
 
-###
-
-<h3 align="left">Social Media:</h3>
-
-###
-
-<div align="left">
-  <a href="https://twitter.com/cinarcvn" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/cinarcivann" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="mailto:iletisim.cinarcivan@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<h2 align="left">About Bilimetri</h2>
-
-###
-
-<p align="left">Bilimetri is a popular science organization founded in Turkey on September 1, 2022. The main purpose of this popular science organization is to spread science and contribute to scientific enlightenment. Bilimetri offers many levels of scientific content to readers completely "free" and "ad-free". There are many categories among these contents, ranging from completely original content to translated content. While some of the content is at the popular science level, some of the content is explained in the form of popular science at the academic level. Bilimetri knows that science is the greatest power in designing our future and always acts accordingly. Opus perfectum!</p>
-
-###
-
-<h3 align="left">Social Media:</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.youtube.com/channel/UCsRUj_SL6wBmRMNxn6gQu7A" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://twitter.com/bilimetri" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/bilimetri" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://t.me/bilimetri" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <a href="mailto:iletisim@bilimetri.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+You can check my website for more information: [cinarcivan.com]()
+<br>
+Contact via e-mail: cinar@scihook.org
