@@ -9,6 +9,6 @@ Hello, I'm Çınar Civan! I'm the co-founder of Sci-Hook Organization. I develop
 
 I work in science communication and I am a science editor. I am the general editor at [Tree of Evolution](https://evrimagaci.org/cinarcivan), Turkey's largest science communication platform. I am also the founder and editor-in-chief of Sci-Hook's science communication platform [Bilimetri](https://www.bilimetri.org/).
 
-You can check my website for more information: [cinarcivan.com]()
+You can check my website for more information: [cinarcivan.com](https://cinarcivan.com)
 <br>
 Contact via e-mail: cinar@scihook.org
